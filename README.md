@@ -51,5 +51,5 @@
 ## Assessment answers:
 1. [Task 1](test\Task_1.md)
 2. [Task 2](test\Task_2.md)
-3. <Add link to test plan Markdown/Gherkin file/section from task 3>
+3. [Task 3](test\Task_3.md)
 4. <Add link to test plan Markdown/Gherkin file/section from task 4>

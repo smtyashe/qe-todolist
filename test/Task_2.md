@@ -1,4 +1,6 @@
-# Bug Report.
+# Task 2
+
+## Bug Report.
 
 **Title:** Updating a todo does not validate that its empty or not
 

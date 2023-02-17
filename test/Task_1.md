@@ -1,25 +1,27 @@
-# Introduction
+# Task 1
+## Introduction
 **General Information:** This document describes the methods and procedures that will be used by the
 QA team in the functional testing process of the web and mobile applications. The objective of the testing activities is to check functions and features of a software product developed for web browsers (Chrome, Firefox, Safari etc.) and modern Android and iOS devices.
 
 **Purpose:** The purpose of this document is to test the website application can a user add a new todo , edit and delete a todo, can multiple users be able to view the shared public todo list and Check a todo list persist after a refresh.
 
-# Scope
+## Scope
 **Components and functions to be tested website application**
 1. Add/Create a todo
 2. Edit/Update a todo
 3. Delete a todo
 4. Multiple users view shared public todo list
 5. Check a todo list persist after a refresh
+6. Todo items should not be able to be empty
 
-# Work Plan
+## Work Plan
 1. Test plan preparation
 2. Test plan approval
 3. Functional testing and bugs reporting
 4. Daily reports preparation
 5. Final report preparation
 
-# Test Plan and Procedure
+## Test Plan and Procedure
 Various aspects of the tested software should be checked; this requires executing of different testing types.
 | Entry Criteria                                        | Exit Criteria                                  |
 |:-------------------------------------------------------|:-----------------------------------------------|
@@ -30,7 +32,7 @@ Various aspects of the tested software should be checked; this requires executin
 |Test environment is prepared, and the application is released to the test environment.|The product should operate in accordance with the requirements and the functional Specification if present|
 |Necessary devices, data||
 
-# Main Testing Type: 
+## Main Testing Type: 
 1. Functional Testing
 2. UI Testing
 3. Usability Testing
@@ -39,16 +41,16 @@ Various aspects of the tested software should be checked; this requires executin
 6. Retesting (during the second round if needed)
 7. Security Testing
 
-# Tool
+## Tool
 1. Jira with zephyr to create and execute test cases
 2. Confluence for documentation
 3. Postman for Rest API for adding, edit and delete
 4. JMeter for load and performance testing
 
-# Bug Reports
+## Bug Reports
 Are created in order to provide the development team and the project managers with exhaustive information about the discovered defects, severity. They must be helpful in determining causes of the errors and correcting them.
 
-## Bug format :
+### Bug format :
 1. Summary, which is short description of the problem
 2. Location of the defect in the software product
 3. The software product name
@@ -59,13 +61,13 @@ Are created in order to provide the development team and the project managers wi
 8. Severity of the defect
 9. Additional information about the defect in the form of attached screenshots or video records.
 
-# Resources
+## Resources
 
 |Browsers|Devices|
 |:-------|:------|
 |Chrome|IOS|
 |Safari|Android|
 
-# Deliverables
+## Deliverables
 1. Test Plan.
 2. Bug reports and reports regarding the testing progress. 
